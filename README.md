@@ -8,6 +8,12 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [Questions and Issues when scoping out a test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
 
+*[How to Use NMAP on a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/NMAP%20Crib%20Sheet.pdf)
+
+*[How to Use the NET Command on a Security Test]()
+
+*[How to Use PowerShell on a Security Test (1)]()
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
