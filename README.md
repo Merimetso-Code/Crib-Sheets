@@ -8,7 +8,7 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Network Configuration
 
-* [How to set up the Kali Linux Interface (1.)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
+* [How to set up the Kali Linux Interface (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
 * [How to set up the Kali Linux Interface (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
 
