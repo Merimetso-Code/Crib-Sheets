@@ -22,6 +22,8 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [The ENUM4LINUX Command for Security Testing.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ENUM4LINUX%20Crib%20Sheet.pdf)
 
+* [The ENUM4LINUX-NG Command for Security Testing.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ENUM4LINUX-NG%20Crib%20Sheet.pdf)
+
 ## Vulnerability Research
 
 * Using ExploitBD and Metasploit for Vulnerability Research.
