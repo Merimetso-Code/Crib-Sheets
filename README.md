@@ -24,6 +24,8 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [How to Use the NET Command on a Security Test (1)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
+* [How to Use the NET Command on a Security Test (2)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%202.pdf)
+
 * How to Use PowerShell on a Security Test (1)
 
 ## Contact Details
