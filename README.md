@@ -4,29 +4,39 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Scoping A Security Test
 
-* [Questions and Issues when scoping out a test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
+* [Questions and Issues when Scoping Out a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
 
 ## Network Configuration
 
-* [How to set up the Kali Linux Interface (1)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
+* [How to set up the Kali Linux Interface (1.)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
-* [How to set up the Kali Linux Interface (2)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
+* [How to set up the Kali Linux Interface (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
 
 ## Network Reconnaissance and Mapping
 
-* [How to Use the ARPING Command on a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ARPing%20Command%20Crib%20Sheet.pdf)
+* [How to Use the ARPING Command on a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ARPing%20Command%20Crib%20Sheet.pdf)
 
-* [How to Use the TRACEROUTE/TRACERT Commands on a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20Tracroute%20Crib%20Sheet.pdf)
+* [How to Use the TRACEROUTE/TRACERT Commands on a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20Tracroute%20Crib%20Sheet.pdf)
 
 * [How to Use NMAP on a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/NMAP%20Crib%20Sheet.pdf)
 
+* [The ENUM4LINUX Command for Security Testing.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ENUM4LINUX%20Crib%20Sheet.pdf)
+
+## Vulnerability Research
+
+* Using ExploitBD and Metasploit for Vulnerability Research.
+
+* Using Metasploit for Vulnerability Exploitation.
+
+* Brute Forcing with HYDRA
+
 ## Post Exploitation
 
-* [How to Use the NET Command on a Security Test (1)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%201.pdf)
+* [How to Use the NET Command on a Security Test (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
-* [How to Use the NET Command on a Security Test (2)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%202.pdf)
+* [How to Use the NET Command on a Security Test (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%202.pdf)
 
-* How to Use PowerShell on a Security Test (1)
+* How to Use PowerShell on a Security Test (1).
 
 ## Contact Details
 
