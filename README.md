@@ -6,6 +6,8 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [Questions and Issues when Scoping Out a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
 
+* The Role of the Computer Misuse Act in a Security Test
+
 ## Network Configuration
 
 * [How to set up the Kali Linux Interface (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
@@ -39,6 +41,10 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 * [How to Use the NET Command on a Security Test (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20NET%20Command%20Crib%20Sheet%202.pdf)
 
 * How to Use PowerShell on a Security Test (1).
+
+## Cloud Security
+
+* Cloud Vulnerabilities
 
 ## Contact Details
 
