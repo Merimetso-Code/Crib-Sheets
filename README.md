@@ -14,6 +14,18 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [How to set up the Kali Linux Interface (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
 
+## Networking with TCP/IP
+
+* Introduction to IP
+
+* Introduction to TCP (1)
+
+* Introduction to TCP (2)
+
+* Introduction to UDP
+
+* Introduction to ICMP
+
 ## Network Reconnaissance and Mapping
 
 * [How to Use the ARPING Command on a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20ARPing%20Command%20Crib%20Sheet.pdf)
@@ -45,6 +57,14 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 ## Cloud Security
 
 * Cloud Vulnerabilities
+
+## Recommended Reading
+
+* [Chris McNab, Network Security Assessment: Know Your Network, 3rd Edition, O'Reilly, 2016](https://www.amazon.co.uk/Network-Security-Assessment-Know-Your/dp/149191095X/ref=sr_1_1?crid=2RI4CBCKBC79C&keywords=network+security+assessment&qid=1657708066&sprefix=network+security+a%2Caps%2C63&sr=8-1)
+
+* [Tim Bryant, PTFM: Purple Team Field Manual, Independently Published, 2020](https://www.amazon.co.uk/PTFM-Purple-Team-Field-Manual/dp/B08LJV1QCD/ref=sr_1_1?crid=BR8A8SAS3HCN&keywords=ptfm&qid=1657708194&sprefix=ptfm%2Caps%2C167&sr=8-1)
+
+* [Douglas E. Comer, Internetworking With Tcp/Ip Volume I: Principles, Protocol, And Architecture, 6th Edition, Pearson, 2015](https://www.amazon.co.uk/Internetworking-Tcp-Ip-Principles-Architecture/dp/9332550107/ref=sr_1_2?qid=1657708327&refinements=p_27%3ADouglas+E.+Comer&s=books&sr=1-2&text=Douglas+E.+Comer)
 
 ## Contact Details
 
