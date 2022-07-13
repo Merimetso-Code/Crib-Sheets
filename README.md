@@ -2,17 +2,30 @@
 
 Welcome to the merimetso crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test.
 
-## Scoping A Security Test
+## Engagement Lifecycle and Risk Management
+
+* The Engagement Lifecycle
 
 * [Questions and Issues when Scoping Out a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
 
 * [The Role of the Computer Misuse Act in a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20CMA%20Crib%20Sheet.pdf)
 
-## Network Configuration
+* The Role of Risk Management in Penetration Testing
+
+
+## Core Technologies
+
+* IP Protocols and Networking
 
 * [How to set up the Kali Linux Interface (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
 * [How to set up the Kali Linux Interface (2).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
+
+* Patch Management and Build Reviews
+
+* Cryptography
+
+* Hardware Security
 
 ## Networking with TCP/IP
 
@@ -26,7 +39,11 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * Introduction to ICMP
 
-## Network Reconnaissance and Mapping
+## Information Gathering
+
+* Open Source Intelligence
+
+* DNS
 
 * [How to Use the ARPING Command on a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20ARPing%20Command%20Crib%20Sheet.pdf)
 
@@ -38,6 +55,8 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [The ENUM4LINUX-NG Command for Security Testing.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20ENUM4LINUX-NG%20Crib%20Sheet.pdf)
 
+* Information Leakage
+
 ## Vulnerability Research
 
 * Using ExploitBD and Metasploit for Vulnerability Research.
@@ -46,7 +65,9 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * Brute Forcing with HYDRA
 
-## Post Exploitation
+## Microsoft Windows Security
+
+* Introduction to Micorosft Windows
 
 * [How to Use the NET Command on a Security Test (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
@@ -54,9 +75,37 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * How to Use PowerShell on a Security Test (1).
 
+## Unix/Linux Security
+
+* Introduction to Unix/Linux
+
+## Database Security
+
+* Introduction to Database security
+
+* Brute Forcing a Data Connection
+
+## Web Security
+
+* Introduction to Web Security
+
+## Physical Security
+
+* Introduction to Physical Security
+
+* Locks and Tamper Resistance
+
+## Virtualisation and Containerisation
+
+* * Introduction to Virtualisation and Containerisation
+
 ## Cloud Security
 
-* Cloud Vulnerabilities
+* * Introduction to Cloud Security
+
+## Secure Development Operations
+
+* Introduction to Secure Development Operations
 
 ## Recommended Reading
 
