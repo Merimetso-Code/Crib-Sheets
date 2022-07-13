@@ -126,4 +126,4 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Contact Details
 
-For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>. For information on the Merimetso Check Team Member course can be located at [Merimetso Web Site.](https://www.merimetso.net/courses)
+For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>. Information on the Merimetso Check Team Member course can be located at [Merimetso Web Site.](https://www.merimetso.net/courses)
