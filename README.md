@@ -1,6 +1,6 @@
 # Crib-Sheets
 
-Welcome to the Merimetso crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test. Information Check Team Member courses can be located at [Merimetso Web Site.](https://www.merimetso.net/courses)
+Welcome to the Merimetso crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test. Information on the Merimetso Check Team Member course can be located at [Merimetso Web Site.](https://www.merimetso.net/courses)
 
 
 ## Engagement Lifecycle and Risk Management
@@ -126,4 +126,4 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Contact Details
 
-For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
+For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>. For information on the Merimetso Check Team Member course can be located at [Merimetso Web Site.](https://www.merimetso.net/courses)
