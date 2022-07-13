@@ -6,7 +6,7 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * [Questions and Issues when Scoping Out a Security Test.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf)
 
-* The Role of the Computer Misuse Act in a Security Test
+* [The Role of the Computer Misuse Act in a Security Test](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/The%20CMA%20Crib%20Sheet.pdf)
 
 ## Network Configuration
 
