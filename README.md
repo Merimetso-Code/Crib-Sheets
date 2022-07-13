@@ -68,9 +68,12 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * Brute Forcing with HYDRA
 
+
 ## Microsoft Windows Security
 
-* Introduction to Micorosft Windows
+* Introduction to Microsoft Windows
+
+* The Microsoft Windows File System and File System Security
 
 * [How to Use the NET Command on a Security Test (1).](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
@@ -81,6 +84,8 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 ## Unix/Linux Security
 
 * Introduction to Unix/Linux
+
+* The Unix/Linux File System and File System Security
 
 ## Database Security
 
@@ -100,11 +105,11 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Virtualisation and Containerisation
 
-* * Introduction to Virtualisation and Containerisation
+* Introduction to Virtualisation and Containerisation
 
 ## Cloud Security
 
-* * Introduction to Cloud Security
+* Introduction to Cloud Security
 
 ## Secure Development Operations
 
