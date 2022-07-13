@@ -12,6 +12,9 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * The Role of Risk Management in Penetration Testing
 
+* Introduction to ISO27001
+
+* Introduction to NIST
 
 ## Core Technologies
 
@@ -57,7 +60,7 @@ Welcome to the merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * Information Leakage
 
-## Vulnerability Research
+## Vulnerability Research and Systems Exploitation
 
 * Using ExploitBD and Metasploit for Vulnerability Research.
 
