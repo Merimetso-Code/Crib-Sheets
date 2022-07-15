@@ -13,7 +13,7 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * The Role of Risk Management in Penetration Testing
 
-* Introduction to ISO27001
+* [Introduction to ISO/IEC 27001/27002](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Introduction%20to%20ISO2700%20Crib%20Sheet.pdf)
 
 * Introduction to NIST
 
