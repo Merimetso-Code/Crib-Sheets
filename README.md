@@ -63,7 +63,7 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 ## Vulnerability Research and Systems Exploitation
 
-* Using ExploitBD and Metasploit for Vulnerability Research.
+* [Using ExploitDB and Metasploit for Vulnerability Research.](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Using%20ExploitDB%20and%20Metasploit%20for%20Vulnerability%20Research%20Crib%20Sheet.pdf)
 
 * Using Metasploit for Vulnerability Exploitation.
 
