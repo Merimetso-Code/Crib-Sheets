@@ -82,6 +82,8 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * How to Use PowerShell on a Security Test (1).
 
+* [Microsoft Windows Service Privilege Escalation (1)](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/Microsoft%20Windows%20Service%20Privilege%20Escalation%20Crib%20Sheet%20(1).pdf)
+
 * [Windows Post Exploitation](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20Windows%20Post%20Expliotation%20Crib%20Sheet.pdf)
 
 ## Unix/Linux Security
