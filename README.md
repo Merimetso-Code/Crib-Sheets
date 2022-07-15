@@ -82,6 +82,8 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * How to Use PowerShell on a Security Test (1).
 
+* [Windows Post Exploitation](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20Windows%20Post%20Expliotation%20Crib%20Sheet.pdf)
+
 ## Unix/Linux Security
 
 * Introduction to Unix/Linux
