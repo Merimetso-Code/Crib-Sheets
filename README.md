@@ -43,6 +43,8 @@ Welcome to the Merimetso crib-sheet GitHub repository. The goal of this reposito
 
 * Introduction to ICMP
 
+* [Port Forwarding](https://github.com/Merimetso-Code/Crib-Sheets/blob/main/Sheets/The%20Port%20Forwarding%20Crib%20Sheet.pdf)
+
 ## Information Gathering
 
 * Open Source Intelligence
